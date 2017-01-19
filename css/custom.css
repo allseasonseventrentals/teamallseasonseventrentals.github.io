@@ -1,0 +1,26 @@
+.fixed-button {
+	font-size: 18px !important;
+}
+
+li {
+	font-size: 20px !important;
+}
+
+.head-title {
+	font-size: 90px;
+}
+
+.menuButton {
+	/*font-family: 'Lalezar', cursive;*/
+	padding: 12px 10px;
+	text-shadow: -1px 1px red;
+}
+
+.button {
+	padding: 12px 10px;
+}
+
+.fix-12-12 {
+
+	margin-bottom: 25px;
+}
